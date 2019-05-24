@@ -1,5 +1,5 @@
 # Titanic_Dataset_SQL_Server_Script
-It's a script to fill in a defined table in SQL server database with Titanic data. This script is generated from a .csv file containing the original data in csv format. It's assumed that the defined table's name is Titanic and that it contains the following columns : 
+It's a script to fill in an already defined table in SQL server database with Titanic data. This script is generated from a .csv file containing the original data in csv format. It's assumed that the defined table's name is Titanic and that it contains the following columns : 
 1 - Passenger_id (primary key and int). 2 - Survived (tinyint). 3 - Pclass (tinyint). 4 - LastName (varchar(100)). 
 5 - FirstName (varchar(100)). 6 - Gender (char(6)). 7 - Age (float). 8 - Sibsp (int). 9 - Parch (int). 10 - Ticket (varchar(100)). 
 11 - Fare (float). 12 - Cabin (varchar(100)). 13 - Embarked (varchar(3)).
